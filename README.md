@@ -1,2 +1,2 @@
-# Trabajo de Fin de Grado de Patricia Matos Meza
-En este repositorio se encuentra todo el código desarrollado, tanto front-end como back-end, en este proyecto.
+# Trabajo de Fin de Grado
+En este repositorio se encuentra todo el código desarrollado para el TFG de Patricia Matos Meza. Incluye tanto los modelos de recomendación y la interfaz gráfica.
